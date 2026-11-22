@@ -1,0 +1,5 @@
+# Plain static site (HTML, CSS and vanilla JS) with no build step.
+# The site's files live in the esha-singh-portfolio/ folder, so that folder is
+# published as-is. No build command, package manager or Node version is needed.
+[build]
+  publish = "esha-singh-portfolio"
